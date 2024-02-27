@@ -4,6 +4,6 @@ Bird's Eye View (BEV) homography projection is a sophisticated computer vision t
 
 ![BEV Homography](./Illustration.png "BEV Homography")
 
-Homography projections are crucial in fields like autonomous driving, surveillance, and advanced driver-assistance systems (ADAS). They significantly enhance decision-making and spatial awareness by providing a comprehensive, unobstructed view of the surroundings. This is particularly beneficial for detecting and navigating around obstacles, planning paths, and understanding complex scenes where traditional camera views may have limitations due to perspective and occlusion.
+Homography projections are crucial in fields like autonomous driving. They significantly enhance decision-making and spatial awareness by providing a comprehensive, unobstructed view of the surroundings. This is particularly beneficial for detecting and navigating around obstacles, planning paths, and understanding complex scenes where traditional camera views may have limitations due to perspective and occlusion.
 
 This project delivers an efficient and accessible implementation of BEV homography projection, enabling users to seamlessly transform conventional photographs into detailed Bird's Eye Views. Such capability greatly aids in improving object detection, path planning, and overall scene comprehension, thereby contributing to the advancement of autonomous systems and safety technologies.
